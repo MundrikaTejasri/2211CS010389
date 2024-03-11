@@ -2,127 +2,110 @@
   {
     "Year": "II",
     "Sem": "I",
-    "Subject": "Operating System",
-    "QUESTION_BANK": "Click here",
+    "QUESTION_BANK": "Operating System",
     "Manuals": "Click here"
   },
   {
     "Year": "II",
     "Sem": "I",
-    "Subject": "Java Programming",
-    "QUESTION_BANK": "Click here",
+    "QUESTION_BANK": "Java Programming",
     "Manuals": "Click here"
   },
   {
     "Year": "II",
     "Sem": "I",
-    "Subject": "Object Oriented Software Engineering",
-    "QUESTION_BANK": "Click here",
+    "QUESTION_BANK": "Object Oriented Software Engineering",
     "Manuals": "Click here"
   },
   {
     "Year": "II",
     "Sem": "I",
-    "Subject": "Discrete Mathematics",
-    "QUESTION_BANK": "Click here",
+    "QUESTION_BANK": "Discrete Mathematics",
     "Manuals": "Click here"
   },
   {
     "Year": "II",
     "Sem": "I",
-    "Subject": "Computer Networks",
-    "QUESTION_BANK": "Click here",
+    "QUESTION_BANK": "Computer Networks",
     "Manuals": "Click here"
   },
   {
     "Year": "II",
     "Sem": "I",
-    "Subject": "Financial Accounting and Management",
-    "QUESTION_BANK": "Click here",
+    "QUESTION_BANK": "Financial Accounting and Management",
     "Manuals": "Click here"
   },
   {
     "Year": "II",
     "Sem": "I",
-    "Subject": "Design And Analysis Of Algorithms",
-    "QUESTION_BANK": "Click here",
+    "QUESTION_BANK": "Design And Analysis Of Algorithms",
     "Manuals": "Click here"
   },
   {
     "Year": "II",
     "Sem": "I",
-    "Subject": "Database Management System",
-    "QUESTION_BANK": "Click here",
+    "QUESTION_BANK": "Database Management System",
     "Manuals": "Click here"
   },
   {
     "Year": "III",
     "Sem": "I",
-    "Subject": "Strategic Management",
-    "QUESTION_BANK": "Click here",
+    "QUESTION_BANK": "Strategic Management",
     "Manuals": "Click here"
   },
   {
     "Year": "III",
     "Sem": "I",
-    "Subject": "Machine Learning for Data Science",
-    "QUESTION_BANK": "Click here",
+    "QUESTION_BANK": "Machine Learning for Data Science",
     "Manuals": "Click here"
   },
   {
     "Year": "III",
     "Sem": "I",
-    "Subject": "Compiler Design",
-    "QUESTION_BANK": "Click here",
+    "QUESTION_BANK": "Compiler Design",
     "Manuals": "Click here"
   },
   {
     "Year": "III",
     "Sem": "I",
-    "Subject": "Cloud Computing and Services",
-    "QUESTION_BANK": "Click here",
+    "QUESTION_BANK": "Cloud Computing and Services",
     "Manuals": "Click here"
   },
   {
     "Year": "III",
     "Sem": "I",
-    "Subject": "Object Oriented Software Engineering",
-    "QUESTION_BANK": "Click here",
+    "QUESTION_BANK": "Object Oriented Software Engineering",
     "Manuals": "Click here"
   },
   {
     "Year": "III",
     "Sem": "I",
-    "Subject": "Computer Networks",
-    "QUESTION_BANK": "Click here",
+    "QUESTION_BANK": "Computer Networks",
     "Manuals": "Click here"
   },
   {
     "Year": "IV",
     "Sem": "I",
-    "Subject": "Software Project Management",
-    "QUESTION_BANK": "Click here",
+    "QUESTION_BANK": "Software Project Management",
     "Manuals": "Click here"
   },
   {
     "Year": "IV",
     "Sem": "I",
-    "Subject": "Deep Learning and Applications",
-    "QUESTION_BANK": "Click here",
+    "QUESTION_BANK": "Deep Learning and Applications",
     "Manuals": "Click here"
   },
   {
     "Year": "IV",
     "Sem": "I",
-    "Subject": "Big Data Analytics and Applications",
-    "QUESTION_BANK": "Click here",
+    "QUESTION_BANK": "Big Data Analytics and Applications",
     "Manuals": "Click here"
   },
   {
     "Year": "IV",
     "Sem": "I",
-    "Subject": "Internet Of Things and Applications",
-    "QUESTION_BANK": "Click here",
+    "QUESTION_BANK": "Internet Of Things and Applications",
     "Manuals": "Click here"
   }
 ]
+
