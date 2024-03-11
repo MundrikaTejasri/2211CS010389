@@ -1,0 +1,128 @@
+[
+  {
+    "Year": "II",
+    "Sem": "I",
+    "Subject": "Operating System",
+    "QUESTION_BANK": "Click here",
+    "Manuals": "Click here"
+  },
+  {
+    "Year": "II",
+    "Sem": "I",
+    "Subject": "Java Programming",
+    "QUESTION_BANK": "Click here",
+    "Manuals": "Click here"
+  },
+  {
+    "Year": "II",
+    "Sem": "I",
+    "Subject": "Object Oriented Software Engineering",
+    "QUESTION_BANK": "Click here",
+    "Manuals": "Click here"
+  },
+  {
+    "Year": "II",
+    "Sem": "I",
+    "Subject": "Discrete Mathematics",
+    "QUESTION_BANK": "Click here",
+    "Manuals": "Click here"
+  },
+  {
+    "Year": "II",
+    "Sem": "I",
+    "Subject": "Computer Networks",
+    "QUESTION_BANK": "Click here",
+    "Manuals": "Click here"
+  },
+  {
+    "Year": "II",
+    "Sem": "I",
+    "Subject": "Financial Accounting and Management",
+    "QUESTION_BANK": "Click here",
+    "Manuals": "Click here"
+  },
+  {
+    "Year": "II",
+    "Sem": "I",
+    "Subject": "Design And Analysis Of Algorithms",
+    "QUESTION_BANK": "Click here",
+    "Manuals": "Click here"
+  },
+  {
+    "Year": "II",
+    "Sem": "I",
+    "Subject": "Database Management System",
+    "QUESTION_BANK": "Click here",
+    "Manuals": "Click here"
+  },
+  {
+    "Year": "III",
+    "Sem": "I",
+    "Subject": "Strategic Management",
+    "QUESTION_BANK": "Click here",
+    "Manuals": "Click here"
+  },
+  {
+    "Year": "III",
+    "Sem": "I",
+    "Subject": "Machine Learning for Data Science",
+    "QUESTION_BANK": "Click here",
+    "Manuals": "Click here"
+  },
+  {
+    "Year": "III",
+    "Sem": "I",
+    "Subject": "Compiler Design",
+    "QUESTION_BANK": "Click here",
+    "Manuals": "Click here"
+  },
+  {
+    "Year": "III",
+    "Sem": "I",
+    "Subject": "Cloud Computing and Services",
+    "QUESTION_BANK": "Click here",
+    "Manuals": "Click here"
+  },
+  {
+    "Year": "III",
+    "Sem": "I",
+    "Subject": "Object Oriented Software Engineering",
+    "QUESTION_BANK": "Click here",
+    "Manuals": "Click here"
+  },
+  {
+    "Year": "III",
+    "Sem": "I",
+    "Subject": "Computer Networks",
+    "QUESTION_BANK": "Click here",
+    "Manuals": "Click here"
+  },
+  {
+    "Year": "IV",
+    "Sem": "I",
+    "Subject": "Software Project Management",
+    "QUESTION_BANK": "Click here",
+    "Manuals": "Click here"
+  },
+  {
+    "Year": "IV",
+    "Sem": "I",
+    "Subject": "Deep Learning and Applications",
+    "QUESTION_BANK": "Click here",
+    "Manuals": "Click here"
+  },
+  {
+    "Year": "IV",
+    "Sem": "I",
+    "Subject": "Big Data Analytics and Applications",
+    "QUESTION_BANK": "Click here",
+    "Manuals": "Click here"
+  },
+  {
+    "Year": "IV",
+    "Sem": "I",
+    "Subject": "Internet Of Things and Applications",
+    "QUESTION_BANK": "Click here",
+    "Manuals": "Click here"
+  }
+]
